@@ -1,6 +1,6 @@
 ## Repo has been updated with figures and code from Kevin Feng
 
-Note that the figures have a transparent background due to the `bg = NA option`. If a white background was desired, then `bg = "white"` would have been included instead.
+Note that the figures have a transparent background due to the `bg = NA` option. If a white background was desired, then `bg = "white"` would have been included instead.
 
 ## Introduction
 
